@@ -1,0 +1,1 @@
+We've implemented the database in local server using PhPMyadmin. Therefore, before running the software, wamp/xampp software needs to be installed and the code file needs to be copied in the www folder of c drive. 
